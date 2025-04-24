@@ -1,5 +1,4 @@
-🦸‍♀️ MarvelsAPI
-MarvelsApi é uma API RESTful desenvolvida com ASP.NET Core 8, voltada para o gerenciamento de clientes, produtos, vendas e usuários. Projetada com arquitetura em camadas, separação clara entre entidades e DTOs, e suporte à autenticação via JWT, essa API serve como backend robusto para sistemas comerciais ou ERP.
+🦸‍♀️ MarvelsAPI é uma API RESTful desenvolvida com ASP.NET Core 8, voltada para o gerenciamento de clientes, produtos, vendas e usuários. Projetada com arquitetura em camadas, separação clara entre entidades e DTOs, e suporte à autenticação via JWT, essa API serve como backend robusto para sistemas comerciais ou ERP.
 
 🚀 Funcionalidades
 - Autenticação via JWT
